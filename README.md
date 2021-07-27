@@ -11,6 +11,7 @@
 1. SkipNode.java 链表节点类
 2. SkipList.java 跳表实现类
 3. Main.java 测试主类
+4. dump.aof 持久化文件
 
 ## 可用的方法
 1. public V get(K key); 查询数据
